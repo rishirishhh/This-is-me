@@ -14,7 +14,7 @@ export const dialogueData = {
   Contact me at rishikavya19@gmail.com if you have any interesting job opportunities!`,
   projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
   Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas.`,
-  library: `There are a lot of novels on my shelves. I like to read all kind of genres. I also read tech books,
-  I probably only read one of them. Who else compulsively buys technical books without ever finishing them?`,
+  library: `As I stand before my bookshelf, a sense of comfort washes over me, like reuniting with old friends after a long journey. Each book holds a memory, a story, a piece of my 
+  past—moments of laughter, tears, and contemplation captured within their pages. They are more than just objects; they are portals to other worlds, windows into the human experience.`,
   exit: `If you want to exit my portfolio, just close the tab.`,
 };
